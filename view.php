@@ -153,5 +153,5 @@ $r = mysqli_query($conn,$q);
     <a href="#"><i class="fa fa-facebook"></i></a> 
   </div>
           
-          <p><button><?php echo "<a href='transact.php?cid=$cid'>Transact</a>"?></button></p>
+          <p><button><?php echo "<a style='color:white;' href='transact.php?cid=$cid'>Transact Here</a>"?></button></p>
     <?php }      ?></div></div>
